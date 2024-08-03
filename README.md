@@ -42,6 +42,12 @@ sudo systemctl stop ollama
 use the link to make a bot on telegram : https://core.telegram.org/bots/tutorial
 ## 5. run the program
 Do not forget to place your robot token in the "**.env file"** before running the program
+> Install libraries
+```bash
+
+pip install -r requirements.txt
+
+```
 run the program 
 ```bash
 
