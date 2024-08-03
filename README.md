@@ -48,5 +48,3 @@ run the program
 python main.py
 
 ```
-قه
-قعد ظ
