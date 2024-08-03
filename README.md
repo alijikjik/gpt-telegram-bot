@@ -5,7 +5,7 @@ Ollama supports running on Windows, macOS, and Linux. You can install Ollama thr
 ## 2. run phi3 model
 ```bash
 
-ollama run phi3
+ollama run phi3:mini
 
 ```
 > [!NOTE]
