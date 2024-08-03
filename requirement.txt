@@ -1,0 +1,4 @@
+python-telegram-bot==21.4
+python-decouple==3.8
+python-dotenv==1.0.1
+openai==1.37.2
